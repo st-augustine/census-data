@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='lewisham census data',
-    author='lewisham-insight-and-delivery',
-    license='BSD-3',
+    description='lbth census data',
+    author='lbth-data-team',
+    license='AGPL-V3',
 )
